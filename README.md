@@ -68,9 +68,8 @@
 **<A href="https://github.com/Ilia-sarzo/Baase-de-Datos-ll/blob/main/hito3/Laboratorio/lab3/console_6.sql">Laboratorio 3 ☞ Laboratorio de clase 3 [[Consola, Maria DB] 💻</A>**
 
 <p align="center">
-    <img src="https://lh3.googleusercontent.com/XSDv6XYZ973bdxMBDJ1adLHpSSUv4vsZJaePpms21eZDl-27JIfTHIYXnnudwPfAg_1-59bKAarMhWGNagsTR2Gq0pAWBUw6CwYwH2V0TzDXZT9z1fKvr1vCOrk8nxZ-U7wVfOJq" width="450">
+    <img src="https://guiauniversitaria.mx/wp-content/uploads/2019/11/por-que%CC%81-estudiar-ingenieri%CC%81a-en-sistemas.jpg" width="450">
 </p>
-
 
 ## 🧑🏻‍💻 Author
 
