@@ -126,7 +126,7 @@
 
 **<A href="https://github.com/Ilia-sarzo/Baase-de-Datos-ll/blob/main/Hito5-Proyecto%20Final/modelo%20ER.pdf"> Modelo Entidad Relacion ☞ Proyecto Hito 5 [Pdf] 💻 </A>**
 
-<p> **<A href="https://www.canva.com/design/DAFT_tPj3v0/XzYfq8itVivcgWa02lDcXw/edit?utm_content=DAFT_tPj3v0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "> Presentacion  ☞ Proyecto Final Hito 5[Canva ] 📄​ </A>**
+<p> **<A href="https://www.canva.com/design/DAFT_tPj3v0/XzYfq8itVivcgWa02lDcXw/view?utm_content=DAFT_tPj3v0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "> Presentacion  ☞ Proyecto Final Hito 5[Canva ] 📄​ </A>**
 
 
 <p align="center">
