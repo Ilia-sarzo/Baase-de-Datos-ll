@@ -1,7 +1,4 @@
 
-    <img src="https://janz.app/static/media/JanzDev2.aae80e6a.gif" width="450">
-</p>
-
 
 
 <h1 align="center"> 😎 👨🏽‍💻​ BASE DE DATOS II 👨🏽‍💻​ 😎​</h1>
